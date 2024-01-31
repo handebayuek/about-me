@@ -7,5 +7,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Web Development
 - 👯 I'm always open to interesting conversations and collaborations. Feel free to connect with me on:
         -LinkedIn: https://www.linkedin.com/in/hande-gurcanoglu-bayuk-15349815
-- 😄 Pronouns: Hande
+
 
